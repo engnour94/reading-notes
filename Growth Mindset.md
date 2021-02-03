@@ -1,4 +1,4 @@
-#*<span style="color:blue"> *Growth Mindset*</span>*
+# Growth Mindset
 ![image](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset.jpg)
 ##<span style="color:violet"> *Growth Mindset*</span> 
 
