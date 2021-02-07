@@ -5,6 +5,7 @@
 
 **Is a belief system that one's intelligence can be grown or developed with persistence, effort, and a focus on learning**
 ___
+
 ## *How to keep yourself in a Growth Mindset?*
 
 1. Beliving you **<span style="color:violet"> *Can*</span>** :smile:
