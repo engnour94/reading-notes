@@ -140,12 +140,12 @@ In a for ,loop the condition is  usually a counter which is used  to tell how ma
 
 <br>
 
-`for (init; condition; upadate){statement;}`
+`for (init; condition; upadate) {statement;}`
 
 
 ### While loop
 
 If you do not know how many times the code should,run you Can use a while loop. Here the condition be something other than a counter and the code will continue to loop for as long as the condition is true. 
 
-`while (condition){statement;update;}`
+`while (condition){statement; update;}`
 
