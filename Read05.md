@@ -8,12 +8,21 @@
 
 * `==` is equal to
 This operator compares two values : numbers strings Or Booleans to See if they are the same.
+
 <br>
 
-`let x =5`<br>
-`x == 8	     false` <br>
-`x == 5	      true`<br>
-`x == "5"	  true`<br>
+`let x =5`
+<br>
+
+`x == 8	     false`
+ <br>
+
+`x == 5	      true`
+<br>
+
+`x == "5"	  true`
+
+<br>
 
 
 
@@ -22,8 +31,15 @@ This operator compares two values : numbers strings Or Booleans to See if they a
 * `!=` is not equal to
  This operator compares two values : numbers strings Booleans to if they are not the Same.
 
-`let x =5`<br>
- `x != 8	   true`<br>
+<br>
+
+`let x =5`
+
+<br>
+
+ `x != 8	   true`
+
+ <br>
 
 
  * `===` Strict  equal to
@@ -53,32 +69,48 @@ This operator compares two  values to check that both value and equal type are n
 
 <br>
 
-`let x =5` <br>
-`x > 8	       false` <br>
+`let x =5`
+
+ <br>
+
+`x > 8	       false` 
+<br>
 <br>
 
 * `< ` Less than
+
 <br>
 
-`let x =5`<br>
+`let x =5`
 
-`x < 8   	true`<br>
+<br>
+
+`x < 8   	true`
+<br>
 
  <br>
 
 * `>=	` Greater than or equal to
 <br>
 
-`let x =5`<br>
-`x >= 8	    false`<br>
+`let x =5`
+<br>
+
+`x >= 8	    false`
+
+<br>
 
 <br>
 
 * ` <=`	 less than or equal to
 <br>
 
-`let x =5`<br>
-`x <= 8	     true` <br>
+`let x =5`
+
+<br>
+
+`x <= 8	     true`
+ <br>
 
 
 ### LOGICAL OPERATORS
@@ -106,6 +138,7 @@ Loops can execute a block of code a number of times.
 If you need to run code a specific number of ,times use a for loop  it is the most Common loop. 
 In a for ,loop the condition is  usually a counter which is used  to tell how many times the loop should run
 
+<br>
 
 `for (init; condition; upadte){statement;}`
 
