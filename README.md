@@ -18,6 +18,9 @@ My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engin
 5. [Structure web pages with HTML](https://engnour94.github.io/reading-notes/Read03)
 6. [Programming with JavaScript](https://engnour94.github.io/reading-notes/Read04)
 7. [Operators and Loops](https://engnour94.github.io/reading-notes/Read05)
+8. [Function](https://engnour94.github.io/reading-notes/read06a)
+9. [# Design web pages with CSS](https://engnour94.github.io/reading-notes/read06b)
+
 
 <br>
 
