@@ -27,7 +27,7 @@ My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engin
 
 <br>
 
-1. [Readings Overview](https://engnour94.github.io/reading-notes/class-01)
+1. [Introductory HTML and JavaScript](https://engnour94.github.io/reading-notes/class-01)
 
 
 ![pic](main.png)
