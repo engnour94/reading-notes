@@ -19,7 +19,7 @@ My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engin
 6. [Programming with JavaScript](https://engnour94.github.io/reading-notes/Read04)
 7. [Operators and Loops](https://engnour94.github.io/reading-notes/Read05)
 8. [Function](https://engnour94.github.io/reading-notes/read06a)
-9. [# Design web pages with CSS](https://engnour94.github.io/reading-notes/read06b)
+9. [ Design web pages with CSS](https://engnour94.github.io/reading-notes/read06b)
 
 <br>
 
@@ -28,6 +28,7 @@ My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engin
 <br>
 
 1. [Introductory HTML and JavaScript](https://engnour94.github.io/reading-notes/class-01)
+2. [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://engnour94.github.io/reading-notes/class-02)
 
 
 ![pic](main.png)
