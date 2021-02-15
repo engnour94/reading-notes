@@ -5,7 +5,7 @@
 My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engineering from the Hashemite university, I am always looking to learn new skills especially about programming 
 
 
-This page contains reding topics of Code 102 and Code 201 from Code-Fellows LUTC,I hope you will enjoy reading this. and **Welcome** to my [GitHub](https://github.com/engnour94) Page
+This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUTC,I hope you will enjoy reading this. and **Welcome** to my [GitHub](https://github.com/engnour94) Page
 
  
 <br>
