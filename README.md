@@ -39,8 +39,8 @@ This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUT
 |2|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://engnour94.github.io/reading-notes/class-02)|
 |3| [HTML Lists, CSS Boxes, JS Control Flow](https://engnour94.github.io/reading-notes/201read03)|
 |4|[HTML Links, CSS Layout, JS Functions](https://engnour94.github.io/reading-notes/201read04) |
-|5| |
-|6| |
+|5| [HTML Images; CSS Color & Text](https://engnour94.github.io/reading-notes/201read05) |
+|6|[Problem Domain, Objects, and the DOM](https://engnour94.github.io/reading-notes/201read06)|
 |7| |
 |8| |
 |9| |
