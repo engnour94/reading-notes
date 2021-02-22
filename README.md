@@ -42,7 +42,7 @@ This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUT
 |5| [HTML Images; CSS Color & Text](https://engnour94.github.io/reading-notes/201read05) |
 |6|[Problem Domain, Objects, and the DOM](https://engnour94.github.io/reading-notes/201read06)|
 |7|[HTML Tables; JS Constructor Functions](https://engnour94.github.io/reading-notes/201read07)|
-|8| |
+|8|[CSS Layout](https://engnour94.github.io/reading-notes/201read08) |
 |9| |
 |10| |
 |11| |
