@@ -45,7 +45,7 @@ This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUT
 |8|[CSS Layout](https://engnour94.github.io/reading-notes/201read08) |
 |9|[Forms and Events](https://engnour94.github.io/reading-notes/201read09)|
 |10|[JS Debugging](https://engnour94.github.io/reading-notes/201read10)|
-|11| |
+|11|[ Assorted Topics](https://engnour94.github.io/reading-notes/201read11) |
 |12| |
 |13| |
 |14| |
