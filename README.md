@@ -47,7 +47,7 @@ This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUT
 |10|[JS Debugging](https://engnour94.github.io/reading-notes/201read10)|
 |11|[ Assorted Topics](https://engnour94.github.io/reading-notes/201read11) |
 |12|[Chart.js, Canvas](https://engnour94.github.io/reading-notes/201read12) |
-|13| |
+|13|[Local Storage](https://engnour94.github.io/reading-notes/201read13) |
 |14| |
 |15| |
 
