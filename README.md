@@ -49,7 +49,7 @@ This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUT
 |12|[Chart.js, Canvas](https://engnour94.github.io/reading-notes/201read12) |
 |13|[Local Storage](https://engnour94.github.io/reading-notes/201read13) |
 |14|[CSS Transforms, Transitions, and Animations](https://engnour94.github.io/reading-notes/201read14a)|
-|15| |
+|15|[ What Google Learned About Teams](https://engnour94.github.io/reading-notes/201read14b) |
 
 <br>
 
