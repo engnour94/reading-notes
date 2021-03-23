@@ -1,16 +1,14 @@
-# About Me:
+# Reading Notes
+
 
 <br>
 
-My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engineering from the Hashemite university, I am always looking to learn new skills especially about programming 
-
-
-This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUTC,I hope you will enjoy reading this. and **Welcome** to my [GitHub](https://github.com/engnour94) Page
+My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engineering from the Hashemite university, I am always looking to learn new skills especially about programming.This page contains reading topics of Code 102 Code 201, code 301 and code 401 from Code-Fellows LUTC,I hope you will enjoy reading this. and **Welcome** to my [GitHub](https://github.com/engnour94) Page
 
  
 <br>
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 <br>
 
@@ -29,7 +27,7 @@ This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUT
 
 <br>
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 <br>
 
@@ -52,5 +50,29 @@ This page contains reading topics of Code 102 and Code 201 from Code-Fellows LUT
 |15|[ What Google Learned About Teams](https://engnour94.github.io/reading-notes/201read14b) |
 
 <br>
+
+## Code 301 - Intermediate Software Development
+
+<br>
+
+|#|Title|
+|--|---|
+|1|[SMACSS and Responsive Web Design](https://engnour94.github.io/reading-notes/301read01)|
+|2|[jQuery, Events, and The DOMs](https://engnour94.github.io/reading-notes/301read02)|
+|3| [Flexbox and Templating](https://engnour94.github.io/reading-notes/301read03)|
+|4|[Responsive Web Design and Regular Expressions](https://engnour94.github.io/reading-notes/301read04) |
+|5| [Heroku Deployment](https://engnour94.github.io/reading-notes/301read05) |
+|6|[Node, Express, and APIs](https://engnour94.github.io/reading-notes/301read06)|
+|7|[ APIs continued](https://engnour94.github.io/reading-notes/301read07)|
+|8|[SQL](https://engnour94.github.io/reading-notes/301read08) |
+|9|[Refactoring](https://engnour94.github.io/reading-notes/301read09)|
+|10|[The Call Stack and Debugging](https://engnour94.github.io/reading-notes/301read10)|
+|11|[EJS](https://engnour94.github.io/reading-notes/301read11) |
+|12|[Components](https://engnour94.github.io/reading-notes/301read12) |
+|13|[Update/Delete](https://engnour94.github.io/reading-notes/301read13) |
+|14|[DB Normalization](https://engnour94.github.io/reading-notes/301read14a)|
+|15|[  Diversity and Inclusion](https://engnour94.github.io/reading-notes/301read14b) |
+
+## Code 401 - Advanced Software Development
 
 ![pic](main.png)
