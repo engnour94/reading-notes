@@ -1,9 +1,16 @@
-# Reading Notes
+# Welcome to my Reading Notes
 
 
 <br>
 
-My name is **Nour Abu El-Enein**, I have a bachelor degree in Mechatronics Engineering from the Hashemite university, I am always looking to learn new skills especially about programming.This page contains reading topics of Code 102 Code 201, code 301 and code 401 from Code-Fellows LUTC,I hope you will enjoy reading this. and **Welcome** to my [GitHub](https://github.com/engnour94) Page
+
+Hi! I am **Nour Abu El-Enein**.
+I'm someone who enjoys learning new stuff and challenging myself, I'm generally interested in engineering and technology.
+I have a bachelor degree in Mechatronics Engineering from the Hashemite university, I am always looking to learn new skills especially about programming, and currently, I'm learning software development.
+I'll post my notes in this repo that will contain reading topics of Code 102 Code 201, code 301 and code 401 from Code-Fellows LUTC,I hope you will enjoy reading this. and **Welcome** to my [GitHub](https://github.com/engnour94) Page
+
+
+
 
  
 <br>
