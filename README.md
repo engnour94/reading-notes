@@ -67,7 +67,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |1|[SMACSS and Responsive Web Design](https://engnour94.github.io/reading-notes/read01-301.html)|
 |2|[jQuery, Events, and The DOMs](https://engnour94.github.io/reading-notes/301read02.html)|
 |3| [Flexbox and Templating](https://engnour94.github.io/reading-notes/301read03.html)|
-|4|[Responsive Web Design and Regular Expressions](https://engnour94.github.io/reading-notes/301read04) |
+|4|[Responsive Web Design and Regular Expressions](https://engnour94.github.io/reading-notes/301read04.html) |
 |5| [Heroku Deployment](https://engnour94.github.io/reading-notes/301read05) |
 |6|[Node, Express, and APIs](https://engnour94.github.io/reading-notes/301read06)|
 |7|[ APIs continued](https://engnour94.github.io/reading-notes/301read07)|
