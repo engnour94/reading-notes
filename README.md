@@ -70,7 +70,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |4|[Responsive Web Design and Regular Expressions](https://engnour94.github.io/reading-notes/301read04.html) |
 |5| [Heroku Deployment](https://engnour94.github.io/reading-notes/301read05.html) |
 |6|[Node, Express, and APIs](https://engnour94.github.io/reading-notes/301read06.html)|
-|7|[ APIs continued](https://engnour94.github.io/reading-notes/301read07.htm)|
+|7|[ APIs continued](https://engnour94.github.io/reading-notes/301read07.html)|
 |8|[SQL](https://engnour94.github.io/reading-notes/301read08) |
 |9|[Refactoring](https://engnour94.github.io/reading-notes/301read09)|
 |10|[The Call Stack and Debugging](https://engnour94.github.io/reading-notes/301read10)|
