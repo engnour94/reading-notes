@@ -72,7 +72,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |6|[Node, Express, and APIs](https://engnour94.github.io/reading-notes/301read06.html)|
 |7|[ APIs continued](https://engnour94.github.io/reading-notes/301read07.html)|
 |8|[SQL](https://engnour94.github.io/reading-notes/301read08.html) |
-|9|[Refactoring](https://engnour94.github.io/reading-notes/301read09.html)|
+|9|[Refactoring](https://engnour94.github.io/reading-notes/301read09)|
 |10|[The Call Stack and Debugging](https://engnour94.github.io/reading-notes/301read10)|
 |11|[EJS](https://engnour94.github.io/reading-notes/301read11) |
 |12|[Components](https://engnour94.github.io/reading-notes/301read12) |
