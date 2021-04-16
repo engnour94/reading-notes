@@ -78,7 +78,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |12|[Components](https://engnour94.github.io/reading-notes/301read12) |
 |13|[Update/Delete](https://engnour94.github.io/reading-notes/301read13) |
 |14|[DB Normalization](https://engnour94.github.io/reading-notes/301read14a)|
-|15|[  Diversity and Inclusion](https://engnour94.github.io/reading-notes/301read14b) |
+|15|[  Diversity and Inclusion](https://engnour94.github.io/reading-notes/301read15) |
 
 ## Code 401 - Advanced Software Development
 
