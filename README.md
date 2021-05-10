@@ -11,7 +11,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 
 
 
-
+***
  
 <br>
 
@@ -31,7 +31,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |8|[Function](https://engnour94.github.io/reading-notes/read06a)|
 |9|[ Design web pages with CSS](https://engnour94.github.io/reading-notes/read06b)
 
-
+*** 
 <br>
 
 ## Code 201 - Foundations of Software Development
@@ -58,6 +58,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 
 <br>
 
+***
 ## Code 301 - Intermediate Software Development
 
 <br>
@@ -80,6 +81,48 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |14|[DB Normalization](https://engnour94.github.io/reading-notes/301read14a)|
 |15|[  Diversity and Inclusion](https://engnour94.github.io/reading-notes/301read15) |
 
+
+*** 
 ## Code 401 - Advanced Software Development
+
+
+<br>
+
+|#|Title|
+|--|---|
+|1|[](https://engnour94.github.io/reading-notes/401-1.html)|
+|2|[ Express](https://engnour94.github.io/reading-notes/401-2.html)|
+|3| [Express REST API](https://engnour94.github.io/reading-notes/401-3.html)|
+|4|[Data Modeling](https://engnour94.github.io/reading-notes/401-4.html) |
+|5| [ Linked Lists](https://engnour94.github.io/reading-notes/401-5.html) |
+|6|[Authentication](https://engnour94.github.io/reading-notes/401-06.html)|
+|7|[ Bearer Authorization](https://engnour94.github.io/reading-notes/401-07.html)|
+|8|[ Access Control (ACL)](https://engnour94.github.io/reading-notes/401-08.html) |
+|9|[](https://engnour94.github.io/reading-notes/401-09)|
+|10|[Stacks & Queues](https://engnour94.github.io/reading-notes/401-10)|
+|11|[Event Driven Applications](https://engnour94.github.io/reading-notes/401-11) |
+|12|[Socket.io](https://engnour94.github.io/reading-notes/401-12) |
+|13|[ Message Queues](https://engnour94.github.io/reading-notes/401-13) |
+|14|[Event Driven Architecture](https://engnour94.github.io/reading-notes/401-14)|
+|15|[  Trees](https://engnour94.github.io/reading-notes/401-15) |
+|16|[AWS: Cloud Servers](https://engnour94.github.io/reading-notes/401-16.html)|
+|17|[ AWS: S3 and Lambda](https://engnour94.github.io/reading-notes/401-17.html)|
+|18| [AWS: API, Dynamo and Lambda](https://engnour94.github.io/reading-notes/401-18.html)|
+|19|[AWS: Events](https://engnour94.github.io/reading-notes/401-19.html) |
+|20| [ Component Based UI](https://engnour94.github.io/reading-notes/401-20.html) |
+|21|[ Props and State](https://engnour94.github.io/reading-notes/401-21.html)|
+|22|[Component Composition](https://engnour94.github.io/reading-notes/401-22)|
+|23|[ Routing](https://engnour94.github.io/reading-notes/401-23) |
+|24|[Hash Tables](https://engnour94.github.io/reading-notes/401-24) |
+|24|[Hooks API](https://engnour94.github.io/reading-notes/401-24) |
+|25|[Custom Hooks](https://engnour94.github.io/reading-notes/401-25)|
+|26|[   Context API](https://engnour94.github.io/reading-notes/401-26) |
+|27|[`<Login /> and <Auth />`](https://engnour94.github.io/reading-notes/401-27) |
+|28|[Graphs](https://engnour94.github.io/reading-notes/401-28)|
+|29|[   Application State with Redux](https://engnour94.github.io/reading-notes/401-29) 
+|30|[Redux - Asynchronous Actions](https://engnour94.github.io/reading-notes/401-30) |
+|31|[Redux - Additional Topics](https://engnour94.github.io/reading-notes/401-31)|
+|32|[   React Native](https://engnour94.github.io/reading-notes/401-32) 
+|33|[Ethics in Tech](https://engnour94.github.io/reading-notes/401-33) |
 
 ![pic](main.png)
