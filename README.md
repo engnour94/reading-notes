@@ -90,8 +90,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 
 |#|Title|
 |--|---|
-|0|[](https://engnour94.github.io/reading-notes/401-0.html)|
-|1|[](https://engnour94.github.io/reading-notes/401-1.html)|
+|1|[Get Ready for 401](https://engnour94.github.io/reading-notes/401-0.html)|
 |2|[ Express](https://engnour94.github.io/reading-notes/401-2.html)|
 |3| [Express REST API](https://engnour94.github.io/reading-notes/401-3.html)|
 |4|[Data Modeling](https://engnour94.github.io/reading-notes/401-4.html) |
