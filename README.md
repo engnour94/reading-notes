@@ -94,7 +94,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |2|[ Express](https://engnour94.github.io/reading-notes/401-2.html)|
 |3| [Express REST API](https://engnour94.github.io/reading-notes/401-3.html)|
 |4|[Data Modeling](https://engnour94.github.io/reading-notes/401-4.html) |
-|5| [ Linked Lists](https://engnour94.github.io/reading-notes/401-5.html) |
+|5| [ Linked Lists](https://engnour94.github.io/reading-notes/401-5) |
 |6|[Authentication](https://engnour94.github.io/reading-notes/401-06.html)|
 |7|[ Bearer Authorization](https://engnour94.github.io/reading-notes/401-07.html)|
 |8|[ Access Control (ACL)](https://engnour94.github.io/reading-notes/401-08.html) |
