@@ -98,7 +98,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |6|[Authentication](https://engnour94.github.io/reading-notes/401-06.html)|
 |7|[ Bearer Authorization](https://engnour94.github.io/reading-notes/401-7.html)|
 |8|[ Access Control (ACL)](https://engnour94.github.io/reading-notes/401-08.html) |
-|9|[](https://engnour94.github.io/reading-notes/401-09)|
+|9|[oAuth](https://engnour94.github.io/reading-notes/401-09)|
 |10|[Stacks & Queues](https://engnour94.github.io/reading-notes/401-10)|
 |11|[Event Driven Applications](https://engnour94.github.io/reading-notes/401-11) |
 |12|[Socket.io](https://engnour94.github.io/reading-notes/401-12) |
