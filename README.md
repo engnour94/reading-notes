@@ -117,15 +117,15 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |22|[Component Composition](https://engnour94.github.io/reading-notes/401-22)|
 |23|[ Routing](https://engnour94.github.io/reading-notes/401-23) |
 |24|[Hash Tables](https://engnour94.github.io/reading-notes/401-24) |
-|24|[Hooks API](https://engnour94.github.io/reading-notes/401-24) |
-|25|[Custom Hooks](https://engnour94.github.io/reading-notes/401-25)|
-|26|[   Context API](https://engnour94.github.io/reading-notes/401-26) |
-|27|[`<Login /> and <Auth />`](https://engnour94.github.io/reading-notes/401-27) |
-|28|[Graphs](https://engnour94.github.io/reading-notes/401-28)|
-|29|[   Application State with Redux](https://engnour94.github.io/reading-notes/401-29) 
-|30|[Redux - Asynchronous Actions](https://engnour94.github.io/reading-notes/401-30) |
-|31|[Redux - Additional Topics](https://engnour94.github.io/reading-notes/401-31)|
-|32|[   React Native](https://engnour94.github.io/reading-notes/401-32) 
-|33|[Ethics in Tech](https://engnour94.github.io/reading-notes/401-33) |
+|25|[Hooks API](https://engnour94.github.io/reading-notes/401-25) |
+|26|[Custom Hooks](https://engnour94.github.io/reading-notes/401-26)|
+|27|[   Context API](https://engnour94.github.io/reading-notes/401-27) |
+|28|[<Login /> and <Auth />](https://engnour94.github.io/reading-notes/401-28) |
+|29|[Graphs](https://engnour94.github.io/reading-notes/401-29)|
+|30|[   Application State with Redux](https://engnour94.github.io/reading-notes/401-30) 
+|31|[Redux - Asynchronous Actions](https://engnour94.github.io/reading-notes/401-31) |
+|32|[Redux - Additional Topics](https://engnour94.github.io/reading-notes/401-32)|
+|33|[   React Native](https://engnour94.github.io/reading-notes/401-33) 
+|34|[Ethics in Tech](https://engnour94.github.io/reading-notes/401-34) |
 
 ![pic](main.png)
