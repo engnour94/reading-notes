@@ -120,7 +120,7 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |25|[Hooks API](https://engnour94.github.io/reading-notes/401-25) |
 |26|[Custom Hooks](https://engnour94.github.io/reading-notes/401-26)|
 |27|[   Context API](https://engnour94.github.io/reading-notes/401-27) |
-|28|[<Login /> and <Auth />](https://engnour94.github.io/reading-notes/401-28) |
+|28|[Login  and Auth ](https://engnour94.github.io/reading-notes/401-28) |
 |29|[Graphs](https://engnour94.github.io/reading-notes/401-29)|
 |30|[   Application State with Redux](https://engnour94.github.io/reading-notes/401-30) 
 |31|[Redux - Asynchronous Actions](https://engnour94.github.io/reading-notes/401-31) |
