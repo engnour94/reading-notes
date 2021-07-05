@@ -123,9 +123,10 @@ I'll post my notes in this repo that will contain reading topics of Code 102 Cod
 |28|[Login  and Auth ](https://engnour94.github.io/reading-notes/401-28) |
 |29|[Graphs](https://engnour94.github.io/reading-notes/401-29)|
 |30|[   Application State with Redux](https://engnour94.github.io/reading-notes/401-30) 
-|31|[Redux - Asynchronous Actions](https://engnour94.github.io/reading-notes/401-31) |
-|32|[Redux - Additional Topics](https://engnour94.github.io/reading-notes/401-32)|
-|33|[   React Native](https://engnour94.github.io/reading-notes/401-33) 
-|34|[Ethics in Tech](https://engnour94.github.io/reading-notes/401-34) |
+|31|[Redux - Combined Reducers](https://engnour94.github.io/reading-notes/401-31) |
+|32|[Redux - Asynchronous Actions](https://engnour94.github.io/reading-notes/401-32)
+|33|[Redux - Additional Topics](https://engnour94.github.io/reading-notes/401-33)|
+|34|[   React Native](https://engnour94.github.io/reading-notes/401-34) 
+|35|[Ethics in Tech](https://engnour94.github.io/reading-notes/401-35) |
 
 ![pic](main.png)
